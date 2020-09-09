@@ -1,1 +1,1 @@
-echo "# inove1-node_redis" 
+Tarefas em background utilizando Node.js e Redis
